@@ -1,7 +1,7 @@
-﻿using Lab2_CRUD.Models;
+﻿using lab2_CRUD.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Lab2_CRUD.Controllers
+namespace lab2_CRUD.Controllers
 {
     public class FilmController : Controller
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace Lab2_CRUD.Models
+namespace lab2_CRUD.Models
 {
     public class Film
     {

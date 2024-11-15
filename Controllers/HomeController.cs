@@ -1,8 +1,8 @@
-using Lab2_CRUD.Models;
+using lab2_CRUD.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Lab2_CRUD.Controllers
+namespace lab2_CRUD.Controllers
 {
     public class HomeController : Controller
     {
